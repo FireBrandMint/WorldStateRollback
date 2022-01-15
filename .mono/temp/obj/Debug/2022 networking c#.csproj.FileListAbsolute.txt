@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\bin\Debug\2022 networking c#.dll
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\bin\Debug\2022 networking c#.pdb
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\obj\Debug\2022 networking c#.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\obj\Debug\2022 networking c#.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\obj\Debug\2022 networking c#.AssemblyInfo.cs
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\obj\Debug\2022 networking c#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\obj\Debug\2022 networking c#.dll
+C:\Users\Usuario\Documents\2021 networking c#\.mono\temp\obj\Debug\2022 networking c#.pdb
