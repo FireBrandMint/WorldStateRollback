@@ -3,7 +3,7 @@ using System;
 
 public class MenuPrincipal : Control
 {
-
+    //a
     string ServerScenePath = "res://Scenes/Server test scene.tscn";
 
     string ClientScenePath = "res://Scenes/Client test scene.tscn";
